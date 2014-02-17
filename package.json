@@ -1,0 +1,18 @@
+{
+  "name": "yahoostocks",
+  "description": "The easiest way to add stock data to your website",
+  "version": "2.0.0",
+  "keywords": [
+    "stocks"
+  ],
+  "homepage": "http://dev.nhefner.com",
+  "author": "Nathan Hefner",
+  "bugs": {
+    "url": "https://github.com/natehefner/yahoostocks.js/issues"
+  }
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natehefner/yahoostocks.js"
+  }
+}
